@@ -53,6 +53,7 @@
       "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#nodejs"
     },
     "python3Full": {
+      "plugin_version": "0.0.1",
       "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#python3Full"
     },
     "ripgrep": {
